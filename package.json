@@ -1,6 +1,6 @@
 {
   "name": "url-params-to-json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse URL parameters",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
