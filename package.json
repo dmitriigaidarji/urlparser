@@ -1,6 +1,6 @@
 {
-  "name": "urlparser",
-  "version": "1.0.0",
+  "name": "url-params-to-json",
+  "version": "0.0.1",
   "description": "Parse URL parameters",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,6 +28,10 @@
   "author": "Dmitrii Gaidarji",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.4",
+    "prettier": "^2.0.2",
+    "ts-jest": "^25.3.0",
     "tslint": "^6.1.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.8.3"

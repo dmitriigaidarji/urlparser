@@ -1,5 +1,5 @@
 import {parseURLParams} from "../index";
 
-test('My Greeter', () => {
-  expect(parseURLParams('Carl')).toBe('Hello Carl');
+test('URL Parser', () => {
+  expect(parseURLParams('test')).toBe('Hello test');
 });
